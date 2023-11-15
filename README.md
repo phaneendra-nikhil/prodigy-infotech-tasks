@@ -22,3 +22,20 @@ Hands-on Experience: Work on real projects to reinforce theoretical knowledge.
 Collaborative Environment: Engage with a supportive team and learn the importance of collaboration in a professional setting.
 Skill Enhancement: Develop a strong foundation in HTML, CSS, and JavaScript, and gain practical experience in web development.
 Remember, this internship is not just about completing projects but about your growth as a web developer. Embrace the challenges, seek guidance when needed, and make the most out of this valuable learning opportunity. Good luck, and enjoy your journey at Prodigy Infotech!
+<hr/>
+
+# Stay tuned for my new updates and follow me on   
+<p align="center>
+  
+  <a href="https://linkedin.com/in/phaneendra-nikhil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="mailto:tallapragadaphaneendranikhil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://phaneendra-nikhil.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+
+</p>
+
