@@ -33,7 +33,7 @@ Remember, this internship is not just about completing projects but about your g
 <p align="center>
   
   <a href="https://linkedin.com/in/phaneendra-nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="mailto:tallapragadaphaneendranikhil@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
